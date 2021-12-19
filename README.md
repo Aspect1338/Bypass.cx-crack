@@ -8,3 +8,5 @@ their dll : https://cdn.discordapp.com/attachments/919586705311424572/9222175048
 random injector if you wanna use it : https://cdn.discordapp.com/attachments/919586705311424572/922217514681909268/lmap.exe
 
 vanta discord : https://discord.gg/cb39wcphQj
+
+credits: nugy#2832
